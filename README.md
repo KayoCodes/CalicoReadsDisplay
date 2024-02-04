@@ -1,4 +1,4 @@
-# CalicoReadsDisplay
+# CalicoReadsDisplay Code is in (trinity-dennis/CS_3773_Final_Project )
 CalicoReads website me and my team created. It is an E-commerce Site that allows users to purchase books from our library. They can search, view, and purchase books and accessories.
 ![Screenshot (16)](https://github.com/KayoCodes/CalicoReadsDisplay/assets/116980114/46f50ba9-ba15-4b5b-b635-bcf2fd2e3b90)
 ![Screenshot (17)](https://github.com/KayoCodes/CalicoReadsDisplay/assets/116980114/4cf9619a-95bf-4895-94c5-fddcbb528d74)
